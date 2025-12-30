@@ -24,6 +24,6 @@ This project analyzes a sales funnel dataset using SQL and Power BI. It focuses 
 - Trend & cumulative analysis
 
 ## 👤 Author
-- Divesh Negi
+
 Divesh Negi
 
