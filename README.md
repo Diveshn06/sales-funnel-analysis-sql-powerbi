@@ -63,13 +63,6 @@ Power BI was used to visualize KPIs and trends interactively.
 
 ---
 
-## 📁 Repository Structure
-sales-funnel-analysis-sql-powerbi/
-│
-├── dataset/
-├── sql_queries.sql
-├── powerbi_dashboard.pbix
-└── README.md
 
 ## 📷 Dashboard Preview
 
@@ -85,3 +78,10 @@ sales-funnel-analysis-sql-powerbi/
 ## 👤 Author
 Divesh Negi
 
+## 📁 Repository Structure
+sales-funnel-analysis-sql-powerbi/
+│
+├── dataset/
+├── sql_queries.sql
+├── powerbi_dashboard.pbix
+└── README.md
