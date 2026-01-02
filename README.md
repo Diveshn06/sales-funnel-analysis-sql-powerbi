@@ -71,6 +71,16 @@ sales-funnel-analysis-sql-powerbi/
 ├── powerbi_dashboard.pbix
 └── README.md
 
+## 📷 Dashboard Preview
+
+![Sales Funnel Dashboard](images/dashboard.png)
+
+### Dashboard Highlights
+- Complete sales funnel from INFO → INVITES → POT → CLOSINGS
+- Conversion percentage at each stage
+- Daily closing trends
+- Top performing IRs and teams
+
 
 ## 👤 Author
 Divesh Negi
